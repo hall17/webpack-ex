@@ -1,3 +1,5 @@
+import './styles/index.scss';
+
 const elvenShieldRecipe = {
     leatherStrips: 2,
     ironIngot: 1,
@@ -10,4 +12,5 @@ const elvenGauntletRecipe = {
 }
 
 console.log(elvenShieldRecipe)
+console.log(elvenGauntletRecipe)
 console.log(elvenGauntletRecipe)
